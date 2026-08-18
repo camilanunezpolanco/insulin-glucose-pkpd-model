@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite the software and the source article."
+title: "Insulin-Glucose PK/PD Model Reconstruction"
+type: software
+authors:
+  - family-names: "Nunez Polanco"
+    given-names: "Camila"
+date-released: 2025-11-05
+references:
+  - type: article
+    authors:
+      - family-names: "Berger"
+        given-names: "Markus"
+      - family-names: "Rodbard"
+        given-names: "David"
+    title: "Computer Simulation of Plasma Insulin and Glucose Dynamics After Subcutaneous Insulin Injection"
+    journal: "Diabetes Care"
+    volume: 12
+    issue: 10
+    start: 725
+    end: 736
+    year: 1989
+    doi: "10.2337/diacare.12.10.725"
+
